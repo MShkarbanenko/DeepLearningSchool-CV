@@ -1,1 +1,1 @@
-My results in https://dls.samcs.ru/[Deep Learning School] computer vision track.
+My results in [Deep Learning School]https://dls.samcs.ru/ computer vision track.
